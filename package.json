@@ -1,0 +1,23 @@
+{
+  "name": "tdd-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cleggatron/tdd-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cleggatron/tdd-jest/issues"
+  },
+  "homepage": "https://github.com/Cleggatron/tdd-jest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
